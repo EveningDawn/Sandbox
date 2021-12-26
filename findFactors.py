@@ -23,4 +23,5 @@ def removeDuplicates(lst):
     return result
 
 #calling
-findFactors(10)
+result = findFactors(2048)
+print(result)
